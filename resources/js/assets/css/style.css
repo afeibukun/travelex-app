@@ -1,0 +1,21 @@
+*{
+    -webkit-transition: all .35s ease-in-out;
+    -moz-transition: all .35s ease-in-out;
+    -o-transition: all .35s ease-in-out;
+    transition: all .35s ease-in-out;
+}
+.padding-top-80{
+    padding-top:80px;
+}
+.padding-top-76{
+    padding-top:76px;
+}
+.color-theme-a{
+    color:#222745;
+}
+.color-theme-b{
+    color:#da292f;
+}
+a.btn-primary{
+    background-color:#da292f;
+}
